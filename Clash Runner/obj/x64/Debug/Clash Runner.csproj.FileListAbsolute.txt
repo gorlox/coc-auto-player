@@ -1,0 +1,14 @@
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\Clash Runner.exe.config
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\opencv_core220.dll
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\opencv_imgproc220.dll
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\Clash Runner.exe
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\Clash Runner.pdb
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\Emgu.CV.dll
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\bin\x64\Debug\Emgu.Util.dll
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\obj\x64\Debug\Clash Runner.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\obj\x64\Debug\Clash_Runner.MainForm.resources
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\obj\x64\Debug\Clash_Runner.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\obj\x64\Debug\Clash Runner.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\obj\x64\Debug\Clash Runner.exe
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\Clash Runner\Clash Runner\obj\x64\Debug\Clash Runner.pdb

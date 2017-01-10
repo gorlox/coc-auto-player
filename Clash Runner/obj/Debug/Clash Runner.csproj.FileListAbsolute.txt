@@ -1,0 +1,9 @@
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\bin\Debug\Clash Runner.exe.config
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\bin\Debug\Clash Runner.exe
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\obj\Debug\Clash_Runner.MainForm.resources
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\obj\Debug\Clash_Runner.Properties.Resources.resources
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\obj\Debug\Clash Runner.csproj.GenerateResource.Cache
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\obj\Debug\Clash Runner.exe
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\obj\Debug\Clash Runner.pdb
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\bin\Debug\Clash Runner.pdb
+C:\Users\Jason\documents\visual studio 2015\Projects\Clash Runner\Clash Runner\obj\Debug\Clash Runner.csprojResolveAssemblyReference.cache
